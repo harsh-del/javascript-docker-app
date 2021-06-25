@@ -1,0 +1,50 @@
+body {
+    font-family: "Lato", sans-serif;
+  }
+
+  pre {
+      display: block;
+      font-family: "Courier New", monospace;
+      white-space: pre;
+      margin: 1em 0;
+  }
+  
+  #p2 {
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   color: crimson;
+   font-size: x-large;
+   margin-left: 50px;
+  }
+ 
+  #in {
+    font-size: 20px;
+    border-radius: 15px;
+    background-color:rgba(119, 49, 165, 0.637);
+    border: 2px solid gold;
+  }
+
+  .back {
+    background-image: url('maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .boxed {
+    background-color: #1f2833;
+    color: #66fcf1;
+    padding: 30px;
+    height: 380px;
+    overflow: auto;
+  }
+  
+  
+  
+  
+  #main {
+    transition: margin-left .5s;
+    padding: 16px;
+  }
+  
+ 
